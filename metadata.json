@@ -1,0 +1,8 @@
+{
+  "name": "Copy of attunment collapse",
+  "description": "A high-amplitude summer adventure. Pitch your tent, sift the sand, construct overthinking rituals, and steal the static from the Pentad Towers.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
